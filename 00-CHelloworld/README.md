@@ -1,0 +1,2 @@
+- Compilador: GCC 8.1.0 (Built by MinGW-W64 project)
+- `__STDC_VERSION__`: 201710L (Correspondiente a C11)
